@@ -12,7 +12,7 @@ const Info = () => {
                 <p>
                     Find some interesting facts about your feline friend.
                      <br />
-                    Click on the helpful paw each time you want to learn more.
+                    <span>Click on the helpful paw below each time you want to learn more.</span>
                     <br />
                     Enjoy!
                 </p>
