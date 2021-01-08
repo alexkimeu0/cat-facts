@@ -1,9 +1,14 @@
+.info {
+    padding: 0 1rem;
+}
+
 .info__top {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     margin: 1rem 0;
+    text-align: center;
 }
 
 .info__top > .title {

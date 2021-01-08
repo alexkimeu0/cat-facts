@@ -2,9 +2,9 @@
   background-color: #dddddd;
   width: 70%;
   margin: 2rem auto;
-  height: 100vh;
+  /* height: 100vh; */
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  padding: 4rem 0;
+  padding: 2rem 0;
 }
 
 .app:hover {
