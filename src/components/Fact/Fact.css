@@ -1,0 +1,29 @@
+.fact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.fact__content {
+    height: 150px;
+}
+
+.fact__content > p {
+    margin-bottom: 2rem;
+    text-align: center;
+    max-width: 550px;
+    font-family: 'Raleway', sans-serif;
+    line-height: 1.5;
+    letter-spacing: 1.5px;    
+}
+
+.fact__paw > img {
+    cursor: pointer;
+    
+}
+
+.fact__paw > img:hover {
+    width: 60px;
+    transition: .8s ease-out;
+}
